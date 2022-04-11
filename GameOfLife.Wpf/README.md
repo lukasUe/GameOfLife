@@ -1,6 +1,6 @@
 ﻿## Conway's Game of Life
 
-![Glider](../Data/Animated_glider_emblem.gif)
+![Glider](Animated_glider_emblem.gif)
 
 <sub>Creator: <span style="color:blue">Quuxplusone</span></sub>\
 <sub>Quelle: <span style="color:blue">Wikimedia Commons</span></sub>
