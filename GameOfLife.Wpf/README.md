@@ -19,13 +19,13 @@ Jede Zelle hat immer genau 8 Nachbarn und verändert sich mit ihren Folgengenera
 <sub>Regeln von Conway</sub>
 
 - Eine tote Zelle mit genau drei lebenden Nachbarn wird in der Folgegeneration nei geboren.\
-    ![rule1](../Data/Matrix_rule1.png)
+    ![rule1](Matrix_rule1.png)
 
 - Lebende Zellen mit weniger als zwei lebenden Nachbarn sterben in der Folgegeneration an Einsamkeit.\
-    ![rule2](../Data/Matrix_rule2.png)
+    ![rule2](Matrix_rule2.png)
 
 - Eine lebende Zelle mit zeri oder drei lebenden Nachbarn bleibt in der Folgegeneration am Leben.\
-    ![rule3](../Data/Matrix_rule3.png)
+    ![rule3](Matrix_rule3.png)
 
 - Lebende Zellen mit mehr als drei lebenden Nachbarn sterben in der Folgegeneration an Überbevölkerung.\
-    ![rule4](../Data/Matrix_rule4.png)
+    ![rule4](Matrix_rule4.png)
