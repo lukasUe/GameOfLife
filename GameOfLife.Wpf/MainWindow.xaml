@@ -9,14 +9,14 @@
     <Grid>
         <Canvas x:Name="matrix" Background="Black" HorizontalAlignment="Left" Height="370" Margin="150,30,0,0" VerticalAlignment="Top" Width="600"/>
         
-        <Button x:Name="StartButton" Content="Start" HorizontalAlignment="Left" Margin="30,40,0,0" VerticalAlignment="Top" Width="100" Click="StartButton_Click"/>
+        <Button x:Name="StartButton" Content="Start" HorizontalAlignment="Left" Margin="30,30,0,0" VerticalAlignment="Top" Width="100" Click="StartButton_Click"/>
 
-        <Button x:Name="StartAnimationButton" Content="Start animation" HorizontalAlignment="Left" Margin="30,70,0,0" VerticalAlignment="Top" Width="100" Click="StartAnimation_Click"/>
+        <Button x:Name="StartAnimationButton" Content="Start animation" HorizontalAlignment="Left" Margin="30,80,0,0" VerticalAlignment="Top" Width="100" Click="StartAnimation_Click"/>
 
-        <Button x:Name="StopAnimationButton" Content="Stop animation" HorizontalAlignment="Left" Margin="30, 100,0,0" VerticalAlignment="Top" Width="100" Click="StopAnimation_Click"/>
+        <Button x:Name="StopAnimationButton" Content="Stop animation" HorizontalAlignment="Left" Margin="30, 110,0,0" VerticalAlignment="Top" Width="100" Click="StopAnimation_Click"/>
 
         <Button x:Name="ClearButton" Content="Clear" HorizontalAlignment="Left" Margin="30, 200, 0, 0" VerticalAlignment="Top" Width="100" Click="ClearButton_Click"/>
 
-        <Button x:Name="NextStepButton" Content="Next step" HorizontalAlignment="Left" Margin="30, 130, 0, 0" VerticalAlignment="Top" Width="100" Click="NextStepButton_Click"/>
+        <Button x:Name="NextStepButton" Content="Next step" HorizontalAlignment="Left" Margin="30, 140, 0, 0" VerticalAlignment="Top" Width="100" Click="NextStepButton_Click"/>
     </Grid>
 </Window>
