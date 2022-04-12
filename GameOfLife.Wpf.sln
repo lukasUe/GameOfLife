@@ -5,15 +5,6 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameOfLife.Wpf", "GameOfLife.Wpf\GameOfLife.Wpf.csproj", "{58198999-ABFA-447F-B447-1A5553A2230B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8CA8489E-471C-404B-8BCF-6B2CE329899C}"
-	ProjectSection(SolutionItems) = preProject
-		GameOfLife.Wpf\Matrix_rule1.png = GameOfLife.Wpf\Matrix_rule1.png
-		GameOfLife.Wpf\Matrix_rule2.png = GameOfLife.Wpf\Matrix_rule2.png
-		GameOfLife.Wpf\Matrix_rule3.png = GameOfLife.Wpf\Matrix_rule3.png
-		GameOfLife.Wpf\Matrix_rule4.png = GameOfLife.Wpf\Matrix_rule4.png
-		GameOfLife.Wpf\README.md = GameOfLife.Wpf\README.md
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
