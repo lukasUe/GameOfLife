@@ -29,3 +29,6 @@ Jede Zelle hat immer genau 8 Nachbarn und verändert sich mit ihren Folgengenera
 
 - Lebende Zellen mit mehr als drei lebenden Nachbarn sterben in der Folgegeneration an Überbevölkerung.\
     ![rule4](Matrix_rule4.png)
+
+
+Quelle: <span style="color:blue">[wikipedia](https://de.wikipedia.org/wiki/Conways_Spiel_des_Lebens)</span>

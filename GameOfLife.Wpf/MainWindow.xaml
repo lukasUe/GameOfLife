@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Game of Life" Height="450" Width="800">
     <Grid>
-        <Canvas x:Name="matrix" Background="Black" HorizontalAlignment="Left" Height="370" Margin="150,30,0,0" VerticalAlignment="Top" Width="600"/>
+        <Canvas x:Name="matrix" Background="#2E2E2E" HorizontalAlignment="Left" Height="370" Margin="150,30,0,0" VerticalAlignment="Top" Width="600"/>
         
         <Button x:Name="StartButton" Content="Start" HorizontalAlignment="Left" Margin="30,30,0,0" VerticalAlignment="Top" Width="100" Click="StartButton_Click"/>
 
